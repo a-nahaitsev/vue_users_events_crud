@@ -17,7 +17,7 @@ npm start
 - open **another** terminal in IDE and use next commands
 ```
 cd fe
-nom i
+npm i
 npm start
 ```
 - then follow the link that appears in the terminal
